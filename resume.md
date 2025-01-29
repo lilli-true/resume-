@@ -1,8 +1,8 @@
 # Lilli-Ana True 
+![Professional Image](2024/2024_img/prof-photo.jpeg)
+
 - Email: trueflores@mines.edu
 - Location: Golden, CO
-
-![Professional Image](prof-photo.jpeg)
 
 ## **Education** 
 - Highschool Graduate, Arvada West Highschool (2023)
@@ -16,5 +16,5 @@
 - Geological Principles and Processes (GGEN 204)
 
 ## **Link to Resume on Doc**
-[Google Docs Link](https://docs.google.com/document/d/1DVF6_h60hpumnc7Z7WP7vZjSaZhqRXSxyNwi194R-3o/edit?tab=t.0#heading=h.y7d3xdxnr44m)
+[Resume Doc Link](https://docs.google.com/document/d/1DVF6_h60hpumnc7Z7WP7vZjSaZhqRXSxyNwi194R-3o/edit?tab=t.0#heading=h.y7d3xdxnr44m)
 
