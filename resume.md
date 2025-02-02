@@ -1,5 +1,5 @@
 # Lilli-Ana True 
-![Professional Image](2024/2024_img/prof-photo.jpeg)
+![Professional Image](2024/2024_img/prof-photo.jpeg){width=300}
 
 - Email: trueflores@mines.edu
 - Location: Golden, CO
